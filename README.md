@@ -47,34 +47,6 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sujit-kumar-stat/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.youtube.com/@sujitkumar3" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.instagram.com/sujitkumar.326" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/sujitkumar.326" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
-</a>
-
-<a href="https://wa.me/qr/RVFWMYAZFSVZB1" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
 <h3 align="left">🛠 Technical Skills</h3>
 
 <h4>🖥️ Operating Systems</h4>

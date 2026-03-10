@@ -19,12 +19,10 @@
 
 <h3 align="left">🔬 Research Interests</h3>
 
-- Bioinformatics and Computational Biology  
-- Machine Learning in Healthcare  
-- Gene Expression Analysis  
-- Cancer Genomics  
 - Statistical Modeling and Data Science  
-
+- Machine Learning in Healthcare  
+- Bioinformatics and Computational Biology  
+- Gene Expression Analysis  
 ---
 
 <h3 align="left">📄 Publications & Academic Profiles</h3>

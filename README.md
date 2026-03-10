@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
-<h3 align="center">A Passionate Researcher and Student in the Department of Statistics</h3>
+<h3 align="center">Researcher in Data Science & Bioinformatics</h3>
 
-<img align="right" alt="Coding" width="260" src="https://github.com/sujitkumar-stat/sujit-kumar3/blob/main/Data-Website-Analytics.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumar-stat&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkumar-stat" /> </p>
+<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/sujitlab/sujitlab/main/Data-Website-Analytics.gif">
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujitkumar-stat)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sujitlab&label=Profile%20views&color=0e75b6&style=flat" alt="sujitlab" />
+</p>
 
-- 📫 How to reach me: **sujit.kumar.stat@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/sujitlab**
+
+- 📫 Email: **sujit.kumar.stat@gmail.com**
 
 - 📱 Mobile: **+8801742377053**
 
@@ -14,35 +17,104 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🔬 Research Interests</h3>
+
+- Bioinformatics and Computational Biology  
+- Machine Learning in Healthcare  
+- Gene Expression Analysis  
+- Cancer Genomics  
+- Statistical Modeling and Data Science  
+
+---
+
+<h3 align="left">📄 Publications & Academic Profiles</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/sujit-kumar-stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit-kumar-stat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+
+<a href="https://scholar.google.com/citations?user=47bgO6wAAAAJ&hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Scholar-Sujit%20Kumar-blue?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Sujit-Kumar-42" target="_blank">
+<img src="https://img.shields.io/badge/ResearchGate-Sujit%20Kumar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=59468420700" target="_blank">
+<img src="https://img.shields.io/badge/Scopus-Sujit%20Kumar-orange?style=for-the-badge&logo=elsevier&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> 
-</a> 
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
-</a> 
+<h3 align="left">🌐 Connect with me</h3>
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sujit-kumar-stat/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/@sujitkumar3" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/sujitkumar.326" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/sujitkumar.326" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40"/>
+</a>
+
+<a href="https://wa.me/qr/RVFWMYAZFSVZB1" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">🛠 Technical Skills</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitkumar-stat&show_icons=true&locale=en&layout=compact" alt="sujitkumar-stat" /></p>
+<h4>🖥️ Operating Systems</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkumar-stat&show_icons=true&locale=en" alt="sujitkumar-stat" /></p>
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitkumar-stat&" alt="sujitkumar-stat" /></p>
+<h4>👨‍💻 Programming Languages</h4>
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<h4>📊 Statistical Software</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATA-1F4E79?style=for-the-badge"/>
+</p>
+
+<h4>🧬 Bioinformatics Tools</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Cytoscape-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujitlab&theme=github" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujitlab&theme=github" />
+</p>

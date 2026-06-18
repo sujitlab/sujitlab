@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
-<h3 align="center">Researcher in Data Science & Bioinformatics</h3>
+<h3 align="center">Researcher in Statistics and Data Science</h3>
 
 <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/sujitlab/sujitlab/main/Data-Website-Analytics.gif">
 
@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=sujitlab&label=Profile%20views&color=0e75b6&style=flat" alt="sujitlab" />
 </p>
 
-- 👨‍💻 All of my projects are available at **https://github.com/sujitlab**
+- 👨‍💻 All of my projects are available at **https://github.com/sujitkumar03**
 
 - 📫 Email: **sujit.kumar.stat@gmail.com**
 
@@ -82,9 +82,9 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujitlab&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujitkumar03&theme=github" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujitlab&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujitkumar03&theme=github" />
 </p>

@@ -82,9 +82,9 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujitkumar03&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujit-kumar-lab&theme=github" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujitkumar03&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujit-kumar-lab&theme=github" />
 </p>

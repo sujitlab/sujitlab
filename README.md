@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
 <h3 align="center">Researcher in Statistics and Data Science</h3>
 
-<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/sujitlab/sujitlab/main/Data-Website-Analytics.gif">
+<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/sujit-kumar-lab/sujit-kumar-lab/main/Data-Website-Analytics.gif">
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sujitlab&label=Profile%20views&color=0e75b6&style=flat" alt="sujitlab" />
+<img src="https://komarev.com/ghpvc/?username=sujit-kumar-lab&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-kumar-lab" />
 </p>
 
-- 👨‍💻 All of my projects are available at **https://github.com/sujitkumar03**
+- 👨‍💻 All of my projects are available at **https://github.com/sujit-kumar-lab**
 
 - 📫 Email: **sujit.kumar.stat@gmail.com**
 
